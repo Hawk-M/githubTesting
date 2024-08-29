@@ -17,3 +17,7 @@ def getHigher(num1, num2):
         return num1
     else:
         return num2
+
+
+def greetUser():
+    print("Hello! How is your day?")
